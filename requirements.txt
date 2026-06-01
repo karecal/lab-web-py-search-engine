@@ -1,0 +1,10 @@
+openai
+chromadb
+python-dotenv
+tiktoken
+fastapi
+uvicorn[standard]
+pandas
+matplotlib
+seaborn
+numpy
